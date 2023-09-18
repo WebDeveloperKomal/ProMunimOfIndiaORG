@@ -1,0 +1,1 @@
+<h1>Hello {{$owner_name}}, Your OTP is {{$otp}}</h1>

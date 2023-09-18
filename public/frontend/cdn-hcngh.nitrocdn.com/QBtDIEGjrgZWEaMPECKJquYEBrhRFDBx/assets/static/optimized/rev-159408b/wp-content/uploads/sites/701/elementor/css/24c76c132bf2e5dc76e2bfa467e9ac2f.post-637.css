@@ -1,0 +1,200 @@
+
+.elementor-637 .elementor-element.elementor-element-6a3c9e7 > .elementor-widget-container {
+	margin: 50px 0px 0px 0px;
+}
+
+.elementor-637 .elementor-element.elementor-element-5a47f65 .elementor-heading-title {
+	color: var(--e-global-color-secondary);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+	padding-bottom: calc(15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+	margin-top: calc(15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+	margin-right: calc(15px / 2);
+	margin-left: calc(15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items {
+	margin-right: calc(-15px / 2);
+	margin-left: calc(-15px / 2);
+}
+
+body.rtl .elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+	left: calc(-15px / 2);
+}
+
+body:not(.rtl) .elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+	right: calc(-15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-icon i {
+	color: var(--e-global-color-accent);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-icon svg {
+	fill: var(--e-global-color-accent);
+}
+
+.elementor-637 .elementor-element.elementor-element-139abbb {
+	--e-icon-list-icon-size: 26px;
+}
+
+.elementor-637 .elementor-element.elementor-element-a4ad26b > .elementor-widget-container {
+	margin: 50px 0px 0px 0px;
+}
+
+.elementor-637 .elementor-element.elementor-element-ae4b0e9 .elementor-heading-title {
+	color: var(--e-global-color-secondary);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+	padding-bottom: calc(15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+	margin-top: calc(15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+	margin-right: calc(15px / 2);
+	margin-left: calc(15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items {
+	margin-right: calc(-15px / 2);
+	margin-left: calc(-15px / 2);
+}
+
+body.rtl .elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+	left: calc(-15px / 2);
+}
+
+body:not(.rtl) .elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+	right: calc(-15px / 2);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-icon i {
+	color: var(--e-global-color-accent);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-icon svg {
+	fill: var(--e-global-color-accent);
+}
+
+.elementor-637 .elementor-element.elementor-element-830c3aa {
+	--e-icon-list-icon-size: 26px;
+}
+
+@media (max-width:1199px) {
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+		padding-bottom: calc(16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+		margin-top: calc(16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+		margin-right: calc(16px / 2);
+		margin-left: calc(16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items {
+		margin-right: calc(-16px / 2);
+		margin-left: calc(-16px / 2);
+	}
+	
+	body.rtl .elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		left: calc(-16px / 2);
+	}
+	
+	body:not(.rtl) .elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		right: calc(-16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+		padding-bottom: calc(16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+		margin-top: calc(16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+		margin-right: calc(16px / 2);
+		margin-left: calc(16px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items {
+		margin-right: calc(-16px / 2);
+		margin-left: calc(-16px / 2);
+	}
+	
+	body.rtl .elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		left: calc(-16px / 2);
+	}
+	
+	body:not(.rtl) .elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		right: calc(-16px / 2);
+	}
+}
+
+@media (max-width:799px) {
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+		padding-bottom: calc(21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+		margin-top: calc(21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+		margin-right: calc(21px / 2);
+		margin-left: calc(21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items {
+		margin-right: calc(-21px / 2);
+		margin-left: calc(-21px / 2);
+	}
+	
+	body.rtl .elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		left: calc(-21px / 2);
+	}
+	
+	body:not(.rtl) .elementor-637 .elementor-element.elementor-element-139abbb .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		right: calc(-21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+		padding-bottom: calc(21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+		margin-top: calc(21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+		margin-right: calc(21px / 2);
+		margin-left: calc(21px / 2);
+	}
+	
+	.elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items {
+		margin-right: calc(-21px / 2);
+		margin-left: calc(-21px / 2);
+	}
+	
+	body.rtl .elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		left: calc(-21px / 2);
+	}
+	
+	body:not(.rtl) .elementor-637 .elementor-element.elementor-element-830c3aa .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+		right: calc(-21px / 2);
+	}
+}
