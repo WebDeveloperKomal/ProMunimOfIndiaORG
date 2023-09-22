@@ -50,12 +50,20 @@ class UserAuth extends Controller
     }
     public function signup_front(Request $req)
     {
+        $validatedData = $req->validate([
+            'business_name' => 'required|string|max:255|regex:/^[a-zA-Z ]+$/', // Validation rules for the 'name' field
+            'owner_name' => 'required|string|max:255|regex:/^[a-zA-Z ]+$/',
+            'mobile' => 'required|max:10',
+            'email' => 'required|email|max:255|unique:enquiry' // Validation rules for the 'email' field
+        ]);
+        if($validatedData){
         $params = array(
             'business_name' => $req->input('business_name'),
             'owner_name' => $req->input('owner_name'),
             'email' => $req->input('email'),
             'mobile' => $req->input('mobile'),
             'state' => $req->input('state'),
+            'district'=>$req->input('district'),
             'city' => $req->input('city'),
             'otp' => rand(000000, 999999),
         );
@@ -88,6 +96,7 @@ class UserAuth extends Controller
                 return redirect('signup');
             }
         }
+    }
     }
     public function verification(Request $req)
     {

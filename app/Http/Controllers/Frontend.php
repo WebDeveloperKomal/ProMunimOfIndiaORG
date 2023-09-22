@@ -405,12 +405,13 @@ class Frontend extends Controller
     }
      public function enquiry(Request $req)
     {
-        // echo 'hy';
-        // exit;
-        $validated = $req->validate([
-            'name' => 'required',
-            'email' => 'required',
+        $validatedData = $req->validate([
+            'name' => 'required|string|max:255|regex:/^[a-zA-Z ]+$/', // Validation rules for the 'name' field
+            'phone' => 'required|max:10',
+            'email' => 'required|email|max:255|unique:enquiry' // Validation rules for the 'email' field
         ]);
+        if($validatedData)
+        {
         $data =  array(
             'name' => $req->input('name'),
             'email' => $req->input('email'),
@@ -431,6 +432,7 @@ class Frontend extends Controller
             session()->flash('class', 'danger');
             return redirect('contact');
         }
+    }
     }
     public function careers(Request $req)
     {
